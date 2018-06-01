@@ -5,8 +5,8 @@ This repository is devoted to using Raspberry Pi in the classroom at Shepherd Un
 Shepherd University students use Pi to gain experience with programmatic control of 
 network hardware and robotic hardware.
 The Pi is a small computer that can be battery powered and installed in small robots.
-The Pi is a powerful computer capable of running Java and Python programs under Linux. 
-The Pi can be used with a USB keyboard, a USB mouse, and an HDMI monitor.
+The Pi is nevertheless a powerful computer capable of running Java and Python programs under Linux. 
+The Pi can be set up with a USB keyboard, a USB mouse, and an HDMI monitor.
 The Pi has ethernet, wifi, and bluetooth connectivity.
 The Pi motherboard has pins that allow us to connect sensors, displays, motors, and even other Pi.
 * Of the many Pi models available, we use Raspberry Pi 3 B (not B+).
