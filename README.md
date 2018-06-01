@@ -1,5 +1,8 @@
 # ShepherdPi
 Raspberry Pi for the classroom
+## Images
+* Raspberry Pi 3 model B motherboard with labels: [jpg](images/Raspi3Layout.jpg)
+* Raspberry Pi 3 model B GPIO pin lables: [jpg](images/raspberry_pi_gpio.jpg)
 ## Terminology
 * IDE: Integrated Development Environment such as BlueJ or Eclipse.
 * Embedded programming: Writing software that runs inside a device.
