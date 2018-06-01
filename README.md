@@ -1,8 +1,9 @@
 # ShepherdPi
-Raspberry Pi for the classroom. 
+Raspberry Pi for the classroom at Shepherd University. 
 The Pi is a small computer that can be battery powered and installed in small robots.
 The Pi is a powerful computer capable of running Java and Python programs under Linux. 
 The Pi has pins that allow us to connect lights, sensors, motors, and even other Pi.
+Shepherd students use Pi to gain experience with programmatic control of network and robotic hardware.
 
 ## Hardware
 * Of the many Pi models available, we use Raspberry Pi 3 B (not B+).
