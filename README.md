@@ -1,6 +1,11 @@
 # ShepherdPi
-Raspberry Pi for the classroom
-## Images
+Raspberry Pi for the classroom. 
+The Pi is a small computer that can be battery powered and installed in small robots.
+The Pi is a powerful computer capable of running Java and Python programs under Linux. 
+Of the many Pi models available, we use Raspberry Pi 3 model B (not B+).
+
+## Hardware
+* Raspberry Pi 3 B specs with images at [MagPi](https://www.raspberrypi.org/magpi/raspberry-pi-3-specs-benchmarks/).
 * Raspberry Pi 3 model B motherboard with labels: [jpg](images/Raspi3Layout.jpg)
 * Raspberry Pi 3 model B GPIO pin lables: [jpg](images/raspberry_pi_gpio.jpg)
 ## Terminology
