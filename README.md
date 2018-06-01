@@ -12,6 +12,11 @@ Shepherd students use Pi to gain experience with programmatic control of network
 * Raspberry Pi 3 B specs with images at [MagPi](https://www.raspberrypi.org/magpi/raspberry-pi-3-specs-benchmarks/).
 * Raspberry Pi 3 B motherboard with labels: [jpg](images/Raspi3Layout.jpg)
 * Raspberry Pi 3 B GPIO pin lables: [jpg](images/raspberry_pi_gpio.jpg)
+* The Pi slows down automatically if it heats up.
+Here is how to create a unix command "temp" to report CPU temperature:
+```alias temp='/opt/vc/bin/vcgencmd measure_temp'```
+Gamers sometimes overclock i.e. increase the Pi CPU clock MHz above the supported value.
+Overclocked Pi may require fans or heat sinks to remain performant.
 ## Terminology
 * Raspberry Pi: a computer available for ~$35 from several companies, built to the open standard specification.
 * Raspbian: the Pi operating system, a version of Unix/Linux/Debian, which is free and open source. 
@@ -28,8 +33,6 @@ Shepherd students use Pi to gain experience with programmatic control of network
 * The Raspberry Pi Foundation: [RaspberryPi.org](https://www.raspberrypi.org/)
 * The BlueJ IDE can be installed on Raspberry Pi:
 [instructions](https://www.bluej.org/raspberrypi/).
-* Create a unix command to report CPU temperature:
-```alias temp='/opt/vc/bin/vcgencmd measure_temp'```
 * The [Osoyoo](http://osoyoo.com/2017/07/13/raspberry-pi-3-starter-learning-kit-introduction/) 
 sensor kit guide has links to videos describing various projects.
 * The [Kookye](http://kookye.com/category/tutorials/rapsberry-pi-projects/)
