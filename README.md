@@ -23,7 +23,7 @@ The Pi motherboard has pins that allow us to connect sensors, displays, motors, 
 * SD card: the "secure digital" flash memory card that holds the Pi default file system and boot disk.
 * GPIO: general purpuse input & output, an array of pins for connecting the Pi to other devices.
 * IDE: Integrated Development Environment such as BlueJ or Eclipse.
-* Embedded programming: Writing software that runs inside a device.
+* Embedded programming: Writing software that runs inside a device such as a watch, coffee maker, or Pi.
 * IoT: the internet of things, the goal of networking household items, can be implemented with Pi.
 * Clock speed and overclocking: 
 The Pi runs at 1.2 GHz i.e. 1,200,000,000 instructions per second.
