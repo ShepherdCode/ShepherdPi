@@ -5,10 +5,10 @@ The Pi is a powerful computer capable of running Java and Python programs under 
 The Pi has pins that allow us to connect lights, sensors, motors, and even other Pi.
 
 ## Hardware
-* Of the many Pi models available, we use Raspberry Pi 3 model B (not B+).
+* Of the many Pi models available, we use Raspberry Pi 3 B (not B+).
 * Raspberry Pi 3 B specs with images at [MagPi](https://www.raspberrypi.org/magpi/raspberry-pi-3-specs-benchmarks/).
-* Raspberry Pi 3 model B motherboard with labels: [jpg](images/Raspi3Layout.jpg)
-* Raspberry Pi 3 model B GPIO pin lables: [jpg](images/raspberry_pi_gpio.jpg)
+* Raspberry Pi 3 B motherboard with labels: [jpg](images/Raspi3Layout.jpg)
+* Raspberry Pi 3 B GPIO pin lables: [jpg](images/raspberry_pi_gpio.jpg)
 ## Terminology
 * Raspberry Pi: a computer available for ~$35 from several companies, built to the open standard specification.
 * Raspbian: the Pi operating system, a version of Unix/Linux/Debian, which is free and open source. 
