@@ -30,7 +30,9 @@ Overclocked Pi may require fans or heat sinks to remain performant.
 * Embedded programming: Writing software that runs inside a device.
 * IoT: the internet of things, the goal of networking all household items.
 ## Links to helpful (free) information
-* The Raspberry Pi Foundation: [RaspberryPi.org](https://www.raspberrypi.org/)
+* The Raspberry Pi Foundation [RaspberryPi.org](https://www.raspberrypi.org/)
+has a gentle introduction to the Linux operating system 
+[here](https://www.raspberrypi.org/documentation/linux/).
 * The BlueJ IDE can be installed on Raspberry Pi:
 [instructions](https://www.bluej.org/raspberrypi/).
 * The [Osoyoo](http://osoyoo.com/2017/07/13/raspberry-pi-3-starter-learning-kit-introduction/) 
