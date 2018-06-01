@@ -4,7 +4,7 @@ This repository is devoted to using Raspberry Pi in the classroom at Shepherd Un
 ## Hardware
 Shepherd University students use Pi to gain experience taking programmatic control of 
 network hardware and robotic hardware.
-The Pi is a credit-card sized computer that can be installed in robots under battery power.
+The Pi is a credit-card sized computer that can run onboard robots under battery power.
 The Pi is nevertheless a powerful computer capable of running Java and Python programs under Linux. 
 The Pi can be set up with a USB keyboard, a USB mouse, and an HDMI monitor.
 The Pi has ethernet, wifi, and bluetooth connectivity.
