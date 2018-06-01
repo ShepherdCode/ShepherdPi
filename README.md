@@ -1,5 +1,5 @@
 # ShepherdPi
-The repository is devoted to using Raspberry Pi in the classroom at Shepherd University. 
+This repository is devoted to using Raspberry Pi in the classroom at Shepherd University. 
 
 ## Hardware
 The Pi is a small computer that can be battery powered and installed in small robots.
