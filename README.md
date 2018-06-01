@@ -13,11 +13,6 @@ The Pi motherboard has pins that allow us to connect sensors, displays, motors, 
 * Raspberry Pi 3 B specs with images at [MagPi](https://www.raspberrypi.org/magpi/raspberry-pi-3-specs-benchmarks/).
 * Raspberry Pi 3 B motherboard with labels: [jpg](images/Raspi3Layout.jpg)
 * Raspberry Pi 3 B GPIO pin lables: [jpg](images/raspberry_pi_gpio.jpg)
-* The Pi slows down automatically if it heats up.
-Here is how to create a unix command "temp" to report CPU temperature:
-```alias temp='/opt/vc/bin/vcgencmd measure_temp'```
-Gamers sometimes overclock i.e. increase the Pi CPU clock MHz above the supported value.
-Overclocked Pi may require fans or heat sinks to remain performant.
 ## Terminology
 * Raspberry Pi: a computer available for ~$35 from several companies, built to the open standard specification.
 * Raspbian: the Pi operating system, a version of Unix/Linux/Debian, which is free and open source. 
@@ -30,6 +25,13 @@ Overclocked Pi may require fans or heat sinks to remain performant.
 * IDE: Integrated Development Environment such as BlueJ or Eclipse.
 * Embedded programming: Writing software that runs inside a device.
 * IoT: the internet of things, the goal of networking all household items.
+* Clock speed and overclocking: 
+The Pi runs at 1.2 GHz i.e. 1,200,000,000 instructions per second.
+The Pi slows down automatically if it heats up.
+Here is how to create a unix command "temp" to report current CPU temperature:
+```alias temp='/opt/vc/bin/vcgencmd measure_temp'```
+Video game players have tried setting the Pi CPU clock speed above the supported value.
+Overclocked Pi may require fans or heat sinks to remain performant.
 ## Links to helpful (free) information
 * The Raspberry Pi Foundation [RaspberryPi.org](https://www.raspberrypi.org/)
 has a gentle introduction to the Linux operating system 
