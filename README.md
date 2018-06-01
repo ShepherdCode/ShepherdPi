@@ -24,7 +24,7 @@ The Pi motherboard has pins that allow us to connect sensors, displays, motors, 
 * GPIO: general purpuse input & output, an array of pins for connecting the Pi to other devices.
 * IDE: Integrated Development Environment such as BlueJ or Eclipse.
 * Embedded programming: Writing software that runs inside a device.
-* IoT: the internet of things, the goal of networking all household items.
+* IoT: the internet of things, the goal of networking household items, can be implemented with Pi.
 * Clock speed and overclocking: 
 The Pi runs at 1.2 GHz i.e. 1,200,000,000 instructions per second.
 The Pi slows down automatically if it heats up.
