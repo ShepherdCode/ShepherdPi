@@ -4,12 +4,19 @@ Raspberry Pi for the classroom
 * Raspberry Pi 3 model B motherboard with labels: [jpg](images/Raspi3Layout.jpg)
 * Raspberry Pi 3 model B GPIO pin lables: [jpg](images/raspberry_pi_gpio.jpg)
 ## Terminology
+* Raspberry Pi: an open standard design for a tiny computer, available for ~$35 from several companies.
+* Raspbian: the Pi operating system, a version of Unix/Linux/Debian, which is free and open source. 
+* NOOBS: free software that installs Raspbian on a Pi.
+* LED: light-emitting diode, a tiny and low-energy light bulb.
+* LCD: liquid crystal display, a low-energy digital screen, usually black on grey.
+* HDMI: the only video output format supported on Raspberry Pi 3.
+* SD card: the "secure digital" flash memory card that holds the Pi default file system and boot disk.
+* GPIO: general purpuse input & output, an array of pins for connecting the Pi to other devices.
 * IDE: Integrated Development Environment such as BlueJ or Eclipse.
 * Embedded programming: Writing software that runs inside a device.
 * IoT: the internet of things, the goal of networking all household items.
-* LED: light-emitting diode, a tiny and low-energy light bulb.
-* LCD: liquid crystal display, a low-energy digital screen, usually black on grey.
 ## Useful information
+* The Raspberry Pi Foundation: [RaspberryPi.org](https://www.raspberrypi.org/)
 * The BlueJ IDE can be installed on Raspberry Pi:
 [instructions](https://www.bluej.org/raspberrypi/).
 * Create a unix command to report CPU temperature:
