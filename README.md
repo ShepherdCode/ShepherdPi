@@ -2,14 +2,15 @@
 Raspberry Pi for the classroom. 
 The Pi is a small computer that can be battery powered and installed in small robots.
 The Pi is a powerful computer capable of running Java and Python programs under Linux. 
-Of the many Pi models available, we use Raspberry Pi 3 model B (not B+).
+The Pi has pins that allow us to connect lights, sensors, motors, and even other Pi.
 
 ## Hardware
+* Of the many Pi models available, we use Raspberry Pi 3 model B (not B+).
 * Raspberry Pi 3 B specs with images at [MagPi](https://www.raspberrypi.org/magpi/raspberry-pi-3-specs-benchmarks/).
 * Raspberry Pi 3 model B motherboard with labels: [jpg](images/Raspi3Layout.jpg)
 * Raspberry Pi 3 model B GPIO pin lables: [jpg](images/raspberry_pi_gpio.jpg)
 ## Terminology
-* Raspberry Pi: an open standard design for a tiny computer, available for ~$35 from several companies.
+* Raspberry Pi: a computer available for ~$35 from several companies, built to the open standard specification.
 * Raspbian: the Pi operating system, a version of Unix/Linux/Debian, which is free and open source. 
 * NOOBS: free software that installs Raspbian on a Pi.
 * LED: light-emitting diode, a tiny and low-energy light bulb.
