@@ -59,3 +59,6 @@ Raspberry Pi 3 Projects for Java Programmers: Get the most out of your Raspberry
 Raspberry Pi with Java: Programming the Internet of Things (IoT) (Oracle Press)
 * Book for $28:
 Raspberry Pi IoT Projects: Prototyping Experiments for Makers
+## The Blinking LED Project
+* A tutorial with pictures at [ADMFactory](https://www.swarthmore.edu/NatSci/echeeve1/Class/E02/Lab02/Breadboard%20inside.jpg).
+* The Pi4J library for controlling pins from inside Java: [home](http://pi4j.com/), [JavaDoc](http://pi4j.com/apidocs/), by Robert [Savage](http://pi4j.com/team-list.html). The early-2018 version, [1.1](http://www.savagehomeautomation.com/projects/category/pi4j), always reports "cannot detect hardware version" with any recent releases of Linux kernel, Raspbian, and wiringPi. As of Fall 2018, there is no official release and the correct library to install is Pi4J 1.2-SNAPSHOT. There is a Debian package [here](http://pi4j.com/download.html); install it with 'sudo apt install /home/pi/Downloads/Pi4J 1.2-SNAPSHOT.deb'. 
