@@ -47,6 +47,8 @@ has a [tutorial](https://javatutorial.net/raspberry-pi-java-tutorial)
 that includes Java code to control an LED connected to the GPIO. 
 * The [Pi4J](http://pi4j.com/) project
 has a Java API that you can download and use in your programs.
+* Various [ways](https://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) to determine the Pi version, including running 'pinout' and printing 'cpuinfo'. 
+* [pinout.xyz](https://pinout.xyz/) draws the pin state.
 ## Other resources (not free)
 * Introduction to Raspberry Pi IoT applications
 on [DZone](https://dzone.com/refcardz/iot-applications-with-java-and-raspberry-pi?chapter=1)
@@ -60,6 +62,6 @@ Raspberry Pi with Java: Programming the Internet of Things (IoT) (Oracle Press)
 * Book for $28:
 Raspberry Pi IoT Projects: Prototyping Experiments for Makers
 ## The Blinking LED Project
-* A tutorial with pictures at [ADMFactory](https://www.swarthmore.edu/NatSci/echeeve1/Class/E02/Lab02/Breadboard%20inside.jpg).
+* A tutorial with pictures at [ADMFactory](https://www.swarthmore.edu/NatSci/echeeve1/Class/E02/Lab02/Breadboard%20inside.jpg). There is a similar page at [HowTo](https://howchoo.com/g/ytzjyzy4m2e/build-a-simple-raspberry-pi-led-power-status-indicator).
 * [wiringPi](http://wiringpi.com/) is a library for controlling GPIO pins on the Pi. The library is written in C and it is used by the Pi4J Java library and (I think) by Python libraries. The [downloads](http://wiringpi.com/download-and-install/) page recommends these three unix commands from home: 'git clone git://git.drogon.net/wiringPi ; cd ~/wiringPi ; ./build '.  
 * The Pi4J library for controlling pins from inside Java: [home](http://pi4j.com/), [JavaDoc](http://pi4j.com/apidocs/), by Robert [Savage](http://pi4j.com/team-list.html). The early-2018 version, [1.1](http://www.savagehomeautomation.com/projects/category/pi4j), always reports "cannot detect hardware version" with any recent releases of Linux kernel, Raspbian, and wiringPi. As of Fall 2018, there is no official release and the correct library to install is Pi4J 1.2-SNAPSHOT. There is a Debian package [here](http://pi4j.com/download.html); install it with 'sudo apt install /home/pi/Downloads/Pi4J 1.2-SNAPSHOT.deb'. Pi4J uses its own GPIO numbering; here is its [GPIO numbering](http://pi4j.com/pins/model-3b-rev1.html) for Pi model 3 B. 
